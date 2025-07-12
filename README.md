@@ -19,7 +19,3 @@ A set of reusable, opinionated React Native boilerplate snippets to speed up you
 | `rnstorybook`     | Storybook boilerplate                |
 | `rnbottomsheet`   | Bottom sheet modal with forwardRef   |
 | `zustandSlice`    | Zustand slice creator                |
-
-## License
-
-MIT
