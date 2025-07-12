@@ -1,5 +1,6 @@
 {
   "React Native Component": {
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "prefix": "rncomponent",
     "body": [
       "import { View, Text, StyleSheet, TouchableOpacity } from 'react-native'",
@@ -24,6 +25,7 @@
     "description": "React Native Component boilerplate",
   },
   "React Native Storybook": {
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "prefix": "rnstorybook",
     "body": [
       "import type { Meta, StoryObj } from '@storybook/react'",
@@ -53,6 +55,7 @@
     "description": "React Native Storybook boilerplate",
   },
   "React Native Bottom Sheet": {
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "prefix": "rnbottomsheet",
     "body": [
       "import { StyleSheet } from 'react-native'",
@@ -103,6 +106,7 @@
     "description": "React Native Bottom Sheet component boilerplate",
   },
   "Zustand Slice Template": {
+    "scope": "javascript,typescript,javascriptreact,typescriptreact",
     "prefix": "zustandSlice",
     "body": [
       "import { StateCreator } from 'zustand'",
